@@ -34,9 +34,10 @@ class SitemapHandler(webapp.RequestHandler):
 class SphinxJsonHandler(webapp.RequestHandler):
   def _fixup_parents(self, context):
     parents = context['parents']
+    current_path = os.path.dirname(context['current_page_name'])
     for index in range(len(parents)):
       parents[index]['link'] = os.path.relpath(
-        os.path.join('/', context['current_page_name'], parents[index]['link']))
+        os.path.join('/', current_path, parents[index]['link']))
 
   def get(self, document_path):
     # Fixup the request path
