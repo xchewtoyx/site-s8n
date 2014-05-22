@@ -84,6 +84,12 @@ app = webapp.WSGIApplication([
   # Render the sitemap
   webapp.Route('/sitemap.xml', SitemapHandler),
 
+  # Renamed files
+  webapp.Route('/sk8n/quiver/index.html', webapp.RedirectHandler,
+                defaults={'_uri':'/sk8n/quiver.html'}),
+  webapp.Route('/sk8n/protection/', webapp.RedirectHandler,
+                defaults={'_uri':'/sk8n/protection.html'}),
+
   # Attempt to render any unmatched urls
   (r'/.*', SphinxJsonHandler),
 ], debug=True)
