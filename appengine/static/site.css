@@ -6,6 +6,9 @@ div.sidebar {
     div.sidebar {
         display: initial;
     }
+    div.search {
+        width: 20%;
+	}
 }
 
 .carousel-inner {
@@ -41,11 +44,6 @@ h5:hover a.headerlink,
 h6:hover a.headerlink,
 dt:hover a.headerlink {
     visibility: visible;
-}
-
-div.search {
-    height: 100%;
-    width: 20%;
 }
 
 table.gsc-search-box {
