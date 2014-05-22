@@ -106,7 +106,8 @@
     <div class="sidebar">
       <div class='logo'>
         <p class="logo"><a href="#">
-            <img class="logo" src="/static/logo.png" alt="Logo"/>
+            <img class="logo" src="{% block logo -%}
+                                   /static/logo.png{%endblock%}" alt="Logo"/>
         </a></p>
         <div class="social g-plusone" data-size="medium"></div>
         <div class="social fb-like" data-layout="button_count"
@@ -117,6 +118,7 @@
              data-via="xchewtoyx">Tweet</a>
         </div>
       </div> <!-- logo -->
+      {%- block panel_top %}{% endblock %}
       {%- if display_toc %}
       <div class="panel">
         <div class="heading">Table of contents</div>
