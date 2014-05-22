@@ -1,0 +1,201 @@
+February 2000
+=============
+
+Sun, 20 Feb 2000
+----------------
+
+09:49 - Foreign affairs
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Another long gap between updates...  ::shrug:: My mind isn't really on
+this any more - I want to keep it going though - and my regular
+reader's aren't going to let me stop anyways :) Had a birthday since
+the last entry.  Was a fun night - went to a party a friend was
+throwing for an unrelated reason and got completely slaughtered...  12
+hours of drinking and then sitting around chatting until the evening
+of the next day.  Very fun - a good Birthday...  Thanks Lou - mucho
+fun, yes indeedy :) Made the decision to extend my holiday at about
+the same time - asked Charlotte on Monday and she was as excited as I
+am about the thought of me being there for 3 weeks now...  ::bounce::
+Only 10 days to go...  gonna be the longest 10 days of my life...
+Dan's managed to get his flight out to see Eb at the same time - me
+and Charlotte will be going down to see them.  8 hour drive each
+way...  That'll be the furthest I've ever been in a car I think.
+Quite looking forward to it.  ::sigh:: I can't think what to write -
+my mind is elsewhere...  My Valentine's day presents to Charlotte were
+a day late - which sucks - but she liked them, so that almost made up
+for it :).  Well - just one more thing before I go...
+
+**I HATE BEING SO FAR AWAY!!!**
+
+::ahem:: sorry for shouting like that, but it had to be done...
+
+Sat, 19 Feb 2000
+----------------
+
+Image of me
+^^^^^^^^^^^
+
+.. image:: images/20000219.jpg
+   :class: center
+
+Fri, 11 Feb 2000
+----------------
+
+08:00 - Technology
+^^^^^^^^^^^^^^^^^^
+
+Another morning. Charlotte is going down to Melbourne this weekend, so
+she's not gonna be around for long phone calls :( I'll call at Ebs
+though - I couldn't stand the idea of not speaking to her. There has
+still couldn't stand the idea of not speaking to her. There has still
+not been a day without speaking and we've been together for over 5
+weeks now. I hate technology.  Last night we both had email problems -
+Netscape stopped working on my home PC, in the end I set up fetchmail
+to grab my pop box and shove it into the local spool. I then used mutt
+to send mail - which I haven't configured properly yet, so it was a
+pain to use. And then when I did finally get my mail at shortly before
+midnight there was nothing from Charlotte. I recieved an SMS moments
+later telling me that she was having problems with chickmail...
+Grrrr. At least orange weren't having network problems again though -
+having no way to talk would be very bad :( Sun in my eyes - I hate
+that. Drinks tonight. DaveE is leaving - and it's my birthday
+tomorrow. I don't want to get pissed though. I want to sleep at home
+tonight - not on Dan's floor. And I certainly don't want another dodgy
+kebab. ::sad sigh:: I hate distance. I hate timezones. I hate the
+unreliability of email systems and of SMS. The closer it gets to
+flying out the more I wish I was there right now. Serious
+missage. ::grin:: but random happy thoughts are happening too :) Spoke
+to Charlotte's sister through email last night - had a warning about
+hurting her.  Last thing I want in the world.  I hope it never
+happends.
+
+Thu, 10 Feb 2000
+----------------
+
+08:10 - YAWN!!!
+^^^^^^^^^^^^^^^
+
+::yawn:: I am so tired lately. Got some extra sleep yesterday - but it
+didn't do any good - sleep doesn't help when you're ill... Should
+never have gone for that kebab. Lots happening all the time - many
+many things have happened since I last wrote... But my memory is a
+blur. All I remember is how me and Charlotte grow closer every
+day. Finally got rid of windows on both my home and office PC -
+getting used to Gnome has slowed me down for a while - but I am
+getting back up to speed now - and I don't have to take reboot breaks
+anymore - which is nice. Oooh, just noticed the construction of the
+millenium footbridge by the new tate gallery - they've probably been
+working on it for months and I just haven't noticed. Damn - I'm gonna
+need to get my Palm synchronising with my PC so I can upload this - I
+installed jpilot last night, but didn't use it to sync because I
+didn't have permission to access the serial port, I didn't want to do
+the sync as root and I was in the middle of a couple of ICQ convos and
+didn't want to have to log out for new group settings to take
+effect... London Bridge - time for a break...
+
+Sat, 05 Feb 2000
+----------------
+
+21:26 - This is world of shit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Yet another reminder of how shitty distance is. I don't
+think there could possibly be a worse feeling than hearing my baby upset,
+knowing she needs me there to comfort her and to not be able to do anything
+because I'm on the other side of the world.
+
+Fri, 04 Feb 2000
+----------------
+
+08:38 - The Joy of Trains
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Well yet another major fuck up on the trains this morning - and all my
+fault. Damn email problems. Late night again... All my fault that I'm
+late. Got to the station about 10 mins late - had the choice of
+getting the 8:00 to moorgate or the 8:09 to Brighton... I'll get the
+8:09 because it will go direct to London Bridge and I'll get there a
+couple of minutes early.  Should have known that wouldn't be the
+case... Bloody 8:09 doesn't stop at London Bridge :/ I thought all of
+the Brighton trains did these days.  Stupid mistake. Oh well - I'll
+just work late to make up - I've had people telling me I should be
+less uptight about the hours I work anyway - I'm not customer facing
+so I can move my hours by a bit and as long as I put the time in it
+doesn't make a difference.  Still feels kinda wrong though. Other
+people have to be in on time or get in trouble - why should I be any
+different? ::sigh:: Mind seizing up again - random staring into space
+and grinning moment. Should be able to finish off the Linux install on
+my PC today - as soon as the Graphics card is sorted I'll be able to
+work without windows. Which is nice.
+
+Wed, 02 Feb 2000
+----------------
+
+19:15 - Flopping hell
+^^^^^^^^^^^^^^^^^^^^^
+
+Scared. Confused. My life has flip-flopped. Things I always found
+painful before are now perfect. And yet I am finding myself unsure
+about what was previous the most stable thing in my life. I can't
+really talk about it here. Luckily I have a pair of ears. She is not
+around at the minute though. I miss her. Every second we are
+apart. Not that we are ever truly together, but the hours of the
+afternoon stretch out. Even submerging myself in work doesn't
+help. Not that I got much work done this afternoon due to an OS
+reinstall. Finally got fed up of the constant waiting in
+Windows. 128Mb of RAM in my PC at work, yet it still ran like lump the
+no-legged dog (see http://www.joecartoon.com/ ).Defragmenting and
+resizing my Win98 partition took hours - during which time I had to
+work on someone else's machine, and then the Linux install took an age
+because the bloody install floppies were corrupt - meaning installing
+drivers for the wrong kernel version to allow an NFS install.
+Wheefunyay. Still all is not bad. The machine is nearly ready
+now.
+
+Bugger - I just remembered that I'm at an offsite meeting tomorrow - I
+won't be able to finish installing until Friday :( And even worse - a
+whole morning without ICQ :( :( Badbadbad.  Should be a fairly
+interesting meeting. As long as it's not all marketing bullshit. Which
+I have a sneaking suspicion most of it will be.
+
+Need to think cheery thoughts. 4 weeks. Happy for 4 whole weeks and
+there are no signs of that changing. My heart soars constantly. Dizzy
+with the unfamiliarity of it.  My head spins now. Thinking of her does
+this to me. Dan and Crazy Jo are official at last. And he is being
+teased mercilessly - just as he showed no mercy in his teasing of
+me.
+
+I am very uncomfortable typing now - someone has sat next to me and I
+have no elbow room. Keep hitting the wrong keys because I can't get my
+hands at the right angle. Still have a cramp in my leg - I woke up at
+about 4-5 am this morning with a bastard of a cramp in my lower leg -
+felt like someone was driving a red hot poker into the muscle. It had
+eased by the time I woke up for real at 6:15 (was on the verge of
+turning over and going back to sleep when I got an SMS from Charlotte
+telling me to log on and check my email) - didn't remember until I got
+to the corner of the street when the muscle started to complain about
+the movement. I hate that. Why are my muscles giving up?  It must be
+the over tiredness I guess. Not really a lot I can do about it
+though. Staying up for good reason. Sleeping at weekends. I need to
+post Charlotte's present in the next couple of days... Grin. Corny
+present, cute present, useful presents, fun presents. A little bit of
+every thing :)
+
+Not sure if this keyboard is such a good idea - wrist acheing. As if I
+need another ache... Heartache is enough for me - don't need all these
+other aches to go along with it :(
+
+7am in Sydney. I'll be home before she gets to work so I can write her
+an email after all. Damn PC being out of action all afternoon was a
+pain - worth it though. I must have wasted days worth of working time
+over the past couple of months waiting for my damn machine to
+respond. So slow. And it happened so quickly too.
+
+Wish I could run Norton on my PC at work - keeps my PC at home in
+check - I bed it'd speed things up no end. Wouldn't have taken half as
+long to run speeddisk as it did for running defrag either... But
+defrag is free and Norton isn't. Take care of the pennies and the
+pounds look after themselves. Is that really the best practice? OK,
+nearly back so I'd better stop. 90 mins or so until my baby is
+around. 90 mins to kill.

@@ -1,0 +1,21 @@
+March 2000
+==========
+
+Thu, 30 Mar 2000
+----------------
+
+11:15 - Gush
+^^^^^^^^^^^^
+
+Wow, over a month between updates... And what a month :) I've met my baby. I
+flew half way around the world to meet Charlotte and she was everything I
+thought she would be and more. The wedding is in November ::grin:: Yup, that's
+right - we're gonna be getting married ::uncontrolable stupid grin:: I have
+:doc:`piccies<../gallery/index>` from when I was there...  I don't really know
+what else to say at the moment except that I am a very happy chappy... And that
+I should be getting back to work, so I'll end this rant now :)
+
+.. toctree::
+   :hidden:
+
+   ../gallery/index

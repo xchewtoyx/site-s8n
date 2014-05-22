@@ -1,13 +1,29 @@
-:title: This is the title for the page
-:description:
-    This is the index page of the project, blah blah blah.
+.. index:: Home, Contents
 
-This page title too
-===================
+www.s8n.net: I'm with stupid.
+=============================
 
-Welcome
--------
+.. toctree::
+   :maxdepth: 1
 
-This is an example index page.
+   mynameis
+   hhjj
+   readinglist
+   sk8n/index
+   nakedbuffy/index
+   vtarot/index
+   nihongo/index
+   meanderings/index
 
-Isn't it wonderful?
+Read my `random meanderings`_...
+
+`My tech site`_
+
+.. _random meanderings: http://meanderings.s8n.net/
+
+.. _My tech site: http://russell.heilling.net/
+
+.. image::
+   :align: center
+
+   images/angel4.gif
