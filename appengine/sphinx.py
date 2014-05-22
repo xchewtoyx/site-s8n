@@ -54,7 +54,7 @@ class SphinxJsonHandler(webapp.RequestHandler):
         with open(document_path) as document_data:
           context = json.load(document_data)
         self._fixup_parents(context)
-        template = JINJA_ENVIRONMENT.get_template('sphinx.html')
+        template = JINJA_ENVIRONMENT.get_template('site.html')
         page_data = template.render(context)
       else:
         self.abort(404)
