@@ -42,3 +42,31 @@ h6:hover a.headerlink,
 dt:hover a.headerlink {
     visibility: visible;
 }
+
+div.search {
+    height: 100%;
+    width: 20%;
+}
+
+table.gsc-search-box {
+    height: 52px;
+    background: none;
+}
+
+div.gsc-input-box {
+    border: none;
+}
+
+div.gsc-input-box>table {
+    border: none;
+    background: none;
+}
+
+input.gsc-search-button {
+    display: none;
+}
+
+#search-results table {
+    background: none;
+}
+

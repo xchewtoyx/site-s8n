@@ -1,1 +1,77 @@
 {% extends "sphinx.html" %}
+{% block css %}
+  <!-- Bootstrap -->
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet"
+   href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/slate/bootstrap.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="/static/social-buttons.css" />
+  <link rel="stylesheet" href="/static/pygments.css" />
+  <link rel="stylesheet" href="/static/site.css" />
+{% endblock css %}
+{% block navitems %}
+<ul class="nav navbar-nav">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle"
+   data-toggle="dropdown">Sections <b class="caret"></b></a>
+   <ul class="dropdown-menu">
+      <li><a href="/sk8n/index.html">Skating</a></li>
+      <li><a href="/meanderings/index.html">Meanderings</a></li>
+      <li><a href="/nakedbuffy/index.html">Naked Buffy</a></li>
+   </ul>
+</li>
+</ul>
+<div class="nav navbar-nav navbar-right search" role="search">
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+{% endblock navitems %}
+{% block logo %}/static/s8n-logo.jpg{% endblock logo %}
+{% block panel_top %}
+    <div class="bio">
+      <div class='heading'>About the author</div>
+      <p>Hi, I'm Russell.  Welcome to my site.</p>
+      <p>Connect to me on social networks:</p>
+      <div class="btn-group">
+        <a class="btn btn-facebook" rel="author"
+           href="https://www.facebook.com/russell.heilling">
+          <i class="fa fa-facebook"></i></a>
+        <a class="btn btn-google-plus" rel="author publisher"
+           href="//plus.google.com/u/0/106763041812869545758?prsrc=3">
+          <i class="fa fa-google-plus"></i></a>
+        <a class="btn btn-twitter" rel="author"
+           href="https://twitter.com/xchewtoyx">
+          <i class="fa fa-twitter"></i></a>
+        <a class="btn btn-linkedin" rel="author"
+           href="https://www.linkedin.com/in/chewtoy">
+          <i class="fa fa-linkedin"></i></a>
+      </div>
+    </div> <!-- bio -->
+{% endblock panel_top %}
+{% block copyright %}&copy; 1997-2014 Russell Heilling{% endblock copyright %}
+{% block sitejs %}
+{{ super() }}
+    <!-- Google custom search -->
+    <script>
+      (function() {
+      var cx = '015733460162241007905:vi6uuxiw2tw';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+      '//www.google.com/cse/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    <!-- analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){
+      i['GoogleAnalyticsObject']=r; i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+      a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+      a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-662687-1', 'www.s8n.net');
+      ga('send', 'pageview');
+    </script>
+{% endblock sitejs %}
