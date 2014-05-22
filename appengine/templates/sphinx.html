@@ -1,0 +1,213 @@
+{%- macro breadbar() %}
+<div class="breadcrumbs" itemscope
+     itemtype="http://data-vocabulary.org/Breadcrumb">
+  <ol class="breadcrumb">
+    <li itemprop="child" itemscope
+        itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="/index" itemprop="url">
+        <span itemprop="title">Home</span></a></li>
+    {%- for parent in parents %}
+    <li itemprop="child" itemscope
+        itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="{{ parent.link }}" itemprop="url">
+        <span itemprop="title">{{ parent.title }}</span></a></li>
+    {%- endfor %}
+    {%- if current_page_name != 'index' %}
+    <li class="active">{{ title }}</li>
+    {%- endif %}
+  </ol>
+</div> <!-- breadcrumbs -->
+<div class="related">
+  <ol >
+    {%- if prev %}
+    <li><a href="{{prev.link}}">Prev</a></li>
+    {%- else %}
+    <li class="disabled"><a href="#">Prev</a></li>
+    {%- endif %}
+    {%- if next %}
+    <li><a href="{{next.link}}">Next</a></li>
+    {%- else %}
+    <li class="disabled"><a href="#">Next</a></li>
+    {%- endif %}
+  </ol>
+</div> <!-- related -->
+{%- endmacro %}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    {%- if meta.title -%}
+    {{meta.title}}
+    {%- else -%}
+    {{title}}
+    {%- endif -%}
+  </title>
+  {%- if meta.description %}
+  <meta name="description" content="{{meta.description}}" />
+  {%- endif %}
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="google-site-verification"
+        content="UKZO8DzBgaAKoitjn9c1RC-FHDCIqNcG7dwqif9xg-g" />
+
+  <!-- Bootstrap -->
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet"
+   href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet"
+   href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="/static/pygments.css" />
+  <link rel="stylesheet" href="/static/site.css" />
+</head>
+<body itemscope itemtype="http://schema.org/Website">
+<div class="container">
+  <nav class="navbar navbar-inverse" role="navigation">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse"
+                data-target="#russell-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <span class='fa fa-home'></span></a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="russell-navbar-collapse-1">
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+  <div class="row">
+    {{ breadbar() }}
+  </div>
+  <div class="row"> <!-- body row -->
+    <div class="body" itemscope itemtype="http://schema.org/WebPageElement"
+         itemprop="mainContentOfPage">
+      <div class="well">
+        {%- if sourcename %}
+        <span class="pull-right">
+          <a href="/_sources/{{ sourcename }}" data-toggle="tooltip"
+             data-placement="left" title="View page source code">
+            <i class="fa fa-fw fa-code"></i>
+          </a>
+        </span>
+        {%- endif %}
+
+        {{ body|safe }}
+      </div>
+    </div> <!-- body -->
+    <div class="sidebar">
+      <div class='logo'>
+        <p class="logo"><a href="#">
+            <img class="logo" src="/static/logo.png" alt="Logo"/>
+        </a></p>
+        <div class="social g-plusone" data-size="medium"></div>
+        <div class="social fb-like" data-layout="button_count"
+             data-action="like" data-show-faces="true"
+             data-share="true"></div>
+        <div class="social">
+          <a href="https://twitter.com/share" class="twitter-share-button"
+             data-via="xchewtoyx">Tweet</a>
+        </div>
+      </div> <!-- logo -->
+      {%- if display_toc %}
+      <div class="panel">
+        <div class="heading">Table of contents</div>
+        <div class="content">
+          {{ toc|safe }}
+        </div>
+      </div>
+      {%- endif %}
+    </div> <!-- sidebar -->
+  </div> <!-- body row -->
+  <div class="row">
+  {{ breadbar() }}
+  </div>
+</div> <!-- container -->
+<footer class="row-fluid">
+  <div class="container">
+    <div class="well">
+      <div class="row">
+        <div class="col-sm-8">
+          <p class="lead">Powered by:</p>
+          <ul class="nav nav-pills">
+            <li><a href="https://python.org/">Python</a></li>
+            <li><a href="http://sphinx-doc.org/">Sphinx</a></li>
+            <li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+            <li><a href="http://jquery.com/">jQuery</a></li>
+            <li><a href="http://fortawesome.github.io/Font-Awesome/">
+                Font Awesome
+            </a></li>
+            <li><a href="https://developers.google.com/appengine/">
+                Google App Engine
+            </a></li>
+          </ul>
+        </div>
+      </div> <!-- row -->
+      <div class="row">
+        <div class="col-sm-12">
+          <p>&copy; Now, by Me</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Load site scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="/static/site.js"></script>
+
+<!-- Remote components -->
+<!-- Google +1 -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+  (function() {
+  var po = document.createElement('script');
+  po.type = 'text/javascript'; po.async = true;
+  po.src = 'https://apis.google.com/js/platform.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- Facebook like button -->
+<script>
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js"+
+  "#xfbml=1&appId=119597771476330&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Tweet this page -->
+<script>
+!function(d,s,id){
+var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(
+d.location)?'http':'https';if(!d.getElementById(id)){
+js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
+fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>
+
+<!-- Google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){
+  i['GoogleAnalyticsObject']=r; i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+  a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+  a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'XXXXXXXXXXXX', 'XXXXXXXXXXXXXXXXXXXX');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
