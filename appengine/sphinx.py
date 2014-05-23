@@ -52,16 +52,19 @@ class SphinxJsonHandler(webapp.RequestHandler):
         link_path = os.path.join(link_path, 'index')
       parents[index]['link'] = link_path
 
-  def get(self, document_path):
+  def _fixup_path(self, request_path):
     # Fixup the request path
-    document_path = os.path.join('json', document_path.strip('/'))
+    document_path = os.path.join('json', request_path.strip('/'))
     if os.path.isdir(document_path):
       document_path = os.path.join(document_path, "index.html")
     if document_path.endswith('.html'):
       document_path = document_path.rsplit('.', 1)[0]
     document_path = '.'.join([document_path, 'fjson'])
+    return document_path
 
-    page_data = memcache.get('document_path')
+  def get(self, request_path):
+    document_path = self._fixup_path(request_path)
+    page_data = memcache.get(document_path)
     if not page_data:
       if os.path.exists(document_path):
         logging.debug('Rendering source file : %r', document_path)
@@ -70,6 +73,7 @@ class SphinxJsonHandler(webapp.RequestHandler):
         self._fixup_parents(context)
         template = JINJA_ENVIRONMENT.get_template('site.html')
         page_data = template.render(context)
+        memcache.add(document_path, page_data)
       else:
         self.abort(404)
 
