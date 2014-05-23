@@ -33,9 +33,8 @@ class SitemapHandler(webapp.RequestHandler):
 class SphinxJsonHandler(webapp.RequestHandler):
   def _redirect_or_abort(self, request_path, document_path):
     if document_path.endswith('.html'):
-      dest_path = document_path[:-5]
-      if os.path.exists(dest_path):
-        self.redirect(dest_path, permanent=True, abort=True)
+      if os.path.exists(documentpath[:-5]):
+        self.redirect(request_path[:-5], permanent=True, abort=True)
     if not request_path.endswith('/'):
       if (os.path.isdir(document_path) or
           os.path.exists(document_path + '.fjson')):
