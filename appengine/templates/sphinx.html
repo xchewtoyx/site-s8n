@@ -87,6 +87,7 @@
   <div class="row">
     {{ breadbar() }}
   </div>
+  {%- block body_top %}{% endblock body_top %}
   <div class="row"> <!-- body row -->
     <div class="body" itemscope itemtype="http://schema.org/WebPageElement"
          itemprop="mainContentOfPage">
@@ -129,6 +130,7 @@
       {%- endif %}
     </div> <!-- sidebar -->
   </div> <!-- body row -->
+  {%- block body_end %}{% endblock body_end %}
   <div class="row">
   {{ breadbar() }}
   </div>
