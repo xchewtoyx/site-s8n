@@ -86,9 +86,9 @@ app = webapp.WSGIApplication([
 
   # Renamed files
   webapp.Route('/sk8n/quiver/index.html', webapp.RedirectHandler,
-                defaults={'_uri':'/sk8n/quiver.html'}),
+                defaults={'_uri':'/sk8n/quiver/'}),
   webapp.Route('/sk8n/protection/', webapp.RedirectHandler,
-                defaults={'_uri':'/sk8n/protection.html'}),
+                defaults={'_uri':'/sk8n/protection/'}),
 
   # Attempt to render any unmatched urls
   (r'/.*', SphinxJsonHandler),
