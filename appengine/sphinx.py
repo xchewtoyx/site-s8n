@@ -39,7 +39,7 @@ class SphinxJsonHandler(webapp.RequestHandler):
     # the relevant page.  Ugh.
     parents = context['parents']
     if context['current_page_name'].endswith('/index'):
-      current_path = context['current_page_name'][:-6]
+      current_path = context['current_page_name'][:-5]
     else:
       current_path = context['current_page_name']
     for index in range(len(parents)):
