@@ -49,7 +49,7 @@ class SphinxJsonHandler(webapp.RequestHandler):
       link_path = os.path.relpath(link_path)
       # if the relative link ends with a /, destination is index
       if parent.endswith('/'):
-        link_path = os.path.join(link_path, index)
+        link_path = os.path.join(link_path, 'index')
       parents[index]['link'] = link_path
 
   def get(self, document_path):
