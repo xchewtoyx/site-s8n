@@ -56,7 +56,7 @@ class SphinxJsonHandler(webapp.RequestHandler):
 
   def get(self, request_path):
     document_path = self._fixup_path(request_path)
-    page_data = memcache.get(document_path)
+    page_data = memcache.get(self.request.path)
     if not page_data:
       if os.path.exists(document_path):
         logging.debug('Rendering source file : %r', document_path)
@@ -65,7 +65,7 @@ class SphinxJsonHandler(webapp.RequestHandler):
         self._fixup_parents(context)
         template = JINJA_ENVIRONMENT.get_template('site.html')
         page_data = template.render(context)
-        memcache.add(document_path, page_data)
+        memcache.add(self.request.path, page_data)
       else:
         self.abort(404)
 
