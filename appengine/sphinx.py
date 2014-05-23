@@ -4,7 +4,6 @@ import os
 import pickle
 
 from google.appengine.api import memcache
-from google.appengine.ext.webapp.util import run_wsgi_app
 import jinja2
 import webapp2 as webapp
 
@@ -33,30 +32,23 @@ class SitemapHandler(webapp.RequestHandler):
 
 class SphinxJsonHandler(webapp.RequestHandler):
   def _fixup_parents(self, context):
-    # the parents list is a mess.  The list gives relative urls, with
-    # no file extension and has a habit of stripping 'index' for index
-    # pages even though it is inluded in the 'current_page_name' of
-    # the relevant page.  Ugh.
+    # links in the parents list are relative to the canonical location
+    # of the served page.  Links served need to be relative to the
+    # current url
+    page_path = os.path.dirname(context['current_page_name'])
+    request_path = os.path.dirname(self.request.path.lstrip('/'))
     parents = context['parents']
-    if context['current_page_name'].endswith('/index'):
-      current_path = context['current_page_name'][:-5]
-    else:
-      current_path = context['current_page_name']
-    for index in range(len(parents)):
-      parent = parents[index]['link']
-      # Work out the relative path difference
-      link_path = os.path.join('/', current_path, parent)
-      link_path = os.path.relpath(link_path)
-      # if the relative link ends with a /, destination is index
-      if parent.endswith('/'):
-        link_path = os.path.join(link_path, 'index')
-      parents[index]['link'] = link_path
+    for parent in parents:
+      dest_path = os.path.normpath(
+        os.path.join(page_path, parent['link']))
+      link_path = os.path.relpath(dest_path, start=request_path)
+      parent['link'] = link_path
 
   def _fixup_path(self, request_path):
     # Fixup the request path
     document_path = os.path.join('json', request_path.strip('/'))
     if os.path.isdir(document_path):
-      document_path = os.path.join(document_path, "index.html")
+      document_path = os.path.join(document_path, "index")
     if document_path.endswith('.html'):
       document_path = document_path.rsplit('.', 1)[0]
     document_path = '.'.join([document_path, 'fjson'])
