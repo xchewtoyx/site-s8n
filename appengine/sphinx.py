@@ -38,16 +38,18 @@ class SphinxJsonHandler(webapp.RequestHandler):
     # pages even though it is inluded in the 'current_page_name' of
     # the relevant page.  Ugh.
     parents = context['parents']
-    current_path = os.path.dirname(context['current_page_name'])
+    if context['current_page_name'].endswith('/index'):
+      current_path = context['current_page_name'][:-6]
+    else:
+      current_path = context['current_page_name']
     for index in range(len(parents)):
       parent = parents[index]['link']
       # Work out the relative path difference
       link_path = os.path.join('/', current_path, parent)
       link_path = os.path.relpath(link_path)
-      # if the relative link ends with a /, then ensure the link_path
-      # does too
-      if parent.endswith('/') and not link_path.endswith('/'):
-        link_path = link_path + '/'
+      # if the relative link ends with a /, destination is index
+      if parent.endswith('/'):
+        link_path = os.path.join(link_path, index)
       parents[index]['link'] = link_path
 
   def get(self, document_path):
