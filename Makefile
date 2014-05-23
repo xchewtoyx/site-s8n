@@ -183,7 +183,7 @@ pseudoxml:
 
 # for GAE
 sitemap: json
-	tools/makesitemap.py -s build/json/environment.pickle -d appengine/sitemap.pkl -b http://www.example.com/sitename
+	tools/makesitemap.py -s build/json/environment.pickle -d appengine/sitemap.pkl -b http://www.s8n.net
 
 appserver: sitemap
 	dev_appserver.py --log_level debug appengine
