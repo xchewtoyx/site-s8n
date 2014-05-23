@@ -31,43 +31,44 @@ class SitemapHandler(webapp.RequestHandler):
     self.response.write(sitemap_data)
 
 class SphinxJsonHandler(webapp.RequestHandler):
-  def _fixup_parents(self, context):
-    # links in the parents list are relative to the canonical location
-    # of the served page.  Links served need to be relative to the
-    # current url
-    page_path = os.path.dirname(context['current_page_name'])
-    request_path = os.path.dirname(self.request.path.lstrip('/'))
-    parents = context['parents']
-    for parent in parents:
-      dest_path = os.path.normpath(
-        os.path.join(page_path, parent['link']))
-      link_path = os.path.relpath(dest_path, start=request_path)
-      parent['link'] = link_path
-
-  def _fixup_path(self, request_path):
-    # Fixup the request path
-    document_path = os.path.join('json', request_path.strip('/'))
-    if os.path.isdir(document_path):
-      document_path = os.path.join(document_path, "index")
+  def _redirect_or_abort(self, request_path, document_path):
     if document_path.endswith('.html'):
-      document_path = document_path.rsplit('.', 1)[0]
-    document_path = '.'.join([document_path, 'fjson'])
-    return document_path
+      dest_path = document_path[:-5]
+      if os.path.exists(dest_path):
+        self.redirect(dest_path, permanent=True, abort=True)
+    if not request_path.endswith('/'):
+      if (os.path.isdir(document_path) or
+          os.path.exists(document_path + '.fjson')):
+        self.redirect(self.request.path + '/', permanent=True, abort=True)
+    self.abort(404)
 
-  def get(self, request_path):
-    document_path = self._fixup_path(request_path)
+  def _check_path(self):
+    request_path = self.request.path.lstrip('/')
+    if not request_path:
+      # Need a special case for the '/' url
+      request_path = './'
+    document_path = os.path.join('json', request_path)
+    match = False
+    if request_path.endswith('/'):
+      document_path = document_path.rstrip('/')
+      if os.path.isdir(document_path):
+        document_path = os.path.join(document_path, 'index')
+      if os.path.exists(document_path + '.fjson'):
+        match = True
+    if not match:
+      self._redirect_or_abort(request_path, document_path)
+    return document_path + '.fjson'
+
+  def get(self):
+    document_path = self._check_path()
     page_data = memcache.get(self.request.path)
     if not page_data:
-      if os.path.exists(document_path):
-        logging.debug('Rendering source file : %r', document_path)
-        with open(document_path) as document_data:
-          context = json.load(document_data)
-        self._fixup_parents(context)
-        template = JINJA_ENVIRONMENT.get_template('site.html')
-        page_data = template.render(context)
-        memcache.add(self.request.path, page_data)
-      else:
-        self.abort(404)
+      logging.debug('Rendering source file : %r', document_path)
+      with open(document_path) as document_data:
+        context = json.load(document_data)
+      template = JINJA_ENVIRONMENT.get_template('site.html')
+      page_data = template.render(context)
+      memcache.add(self.request.path, page_data)
 
     self.response.write(page_data)
 
@@ -76,5 +77,5 @@ app = webapp.WSGIApplication([
   webapp.Route('/sitemap.xml', SitemapHandler),
 
   # Attempt to render any unmatched urls
-  (r'/([^.]*)(?:.html|$)', SphinxJsonHandler),
+  (r'/.*', SphinxJsonHandler),
 ], debug=True)
