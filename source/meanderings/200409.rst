@@ -1,0 +1,71 @@
+Wed, 22 Sep 2004
+----------------
+
+23:03 - A blosxom plugin to allow links to a kwiki
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I've done away with the writebacks plugin on my blosxom installs, and have
+instead written a plugin that uses the Kwiki module to insert links to new
+pages based on the filename of the post.
+
+Needs to be pointed at a basic kwiki config file with the "script_name" and
+"database_directory" settings defined.
+
+.. code-block:: perl
+
+   package kwikilink;
+   use strict;
+   use warnings;
+   use Kwiki;
+   
+   #-------------------
+   # Begin Local Config
+   
+   my $configdir = "/home/heillingr/blosxom/plugins";
+   
+   # End Local Config
+   #-------------------
+   
+   our $hub = Kwiki->new->load_hub("$configdir/kwikilink.yaml");
+   $hub->load_class('pages');
+   our $kwikilink;
+   
+   sub start {
+       return(1);
+   }
+   
+   sub story {
+       my ($path, $file) = @_[1,2];
+       my $fullname = "$path/$file";
+       $fullname =~ s{(?:^|/)([a-z])}{\U$1}g;
+       my $page = $hub->pages->new_from_name($fullname);
+       $kwikilink = $page->kwiki_link;
+   }
+   
+   1;
+
+Sun, 19 Sep 2004
+----------------
+
+23:51 - Another day, another website
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Well I thought I'd pretty much retired this site, and then lo and behold my
+hosting ran out on ccie.org.uk, so I find this is my primary again.
+
+Working on packaging some modules for CPAN at the mo. Got my PAUSE account, but
+have buggered up the version numbers on the modules I uploaded. I think I'm
+getting the hang of subversion now, but I really should have thought things
+through more before publishing a file to CPAN with a version number taken from
+the subversion revision number... Version 23 of a module doesn't really look
+right.
+
+Have now come to the conclusion that having to manually specify the version
+number when you build the distribution isn't such a bad thing. I'll keep $ Id:$
+in my files, but I won't be using it to build version strings automagically any
+more.
+
+Am making a start on getting my POE Jabber bot ready for publication to CPAN
+too. Too many hours gone into it to just leave it running in the background on
+my jabber server. Not that it's really ready for heavy use, but at least if it
+gets in the index I might have a chance of some feedback ;)

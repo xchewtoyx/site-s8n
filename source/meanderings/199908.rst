@@ -24,9 +24,7 @@ have the willpower to do that :)
 .. raw:: html
 
    <div class="story">
-   <a name="sfelitie"></a>
    <span class="title">08:46 - Creastent scripters mccablend unplities.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Got mum to give me a lift into town. Saved me a 20 minute walk, but made
    me very early - so here I am again. Didn't sleep very well at all last night. Kept waking
@@ -36,9 +34,7 @@ have the willpower to do that :)
    </div>
    
    <div class="story">
-   <a name="trams"></a>
    <span class="title">08:00 - Donioni berthongly ayguari.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I really need more sleep. Not because I am tired - I'm not - but my legs
    are killing me. At least I haven't got cramps.</p>
@@ -47,9 +43,7 @@ have the willpower to do that :)
    
    <h2>Mon, 30 Aug 1999</h2>
    <div class="story">
-   <a name="chore"></a>
    <span class="title">21:16 - Unifyings asilizes purscana.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Goddamn! My legs have just collapsed - I don't know if I'll be able to get
    up when I get back to St. Albans - or if I'll be able to get up in the morning... I hope I
@@ -60,9 +54,7 @@ have the willpower to do that :)
    </div>
    
    <div class="story">
-   <a name="suitouch"></a>
    <span class="title">20:51 - Ath brate mateence haelini.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Well the queue for the train was great fun - completely lost Dan and Kings
    - would be going a different way from here on anyway... That was fun. Eating all sorts of
@@ -74,9 +66,7 @@ have the willpower to do that :)
    </div>
    
    <div class="story">
-   <a name="balkage"></a>
    <span class="title">11:47 - Angeramman match reprograph.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Fun, fun, fun. A train ride to the carnival. Am meeting the others at
    Charing Cross - a computer crowd again. Hope there's not too much shop talk - I try to
@@ -97,9 +87,7 @@ have the willpower to do that :)
    
    <h2>Sun, 29 Aug 1999</h2>
    <div class="story">
-   <a name="agermat"></a>
    <span class="title">00:01 - Banded cathunist atireso demonkle equivalicia.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">What is it with me and gay blokes? It's the second time in two days.
    Second time in one day actually - the first time was well past midnight. The bloke on the
@@ -118,9 +106,7 @@ Image of me
    
    <h2>Sat, 28 Aug 1999</h2>
    <div class="story">
-   <a name="baniates"></a>
    <span class="title">23:11 - Onalizab dels intne isorco.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I am stone cold sober and yet cannot follow simple directions. I am shit.
    My mind is constantly elsewhere. Where is it? I have no memory of grand fantasies, or even
@@ -133,9 +119,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="acies"></a>
    <span class="title">20:38 - Snes fairn coronous.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Out to see a movie. I didn't come out to play computer games, and would
    much rather go for a drink while I'm waiting. I could really do with sitting down, the
@@ -145,9 +129,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="belgise"></a>
    <span class="title">16:01 - Indimea pection spattensely.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Just bought a lead for connecting my palmtop to my phone. Dangerous. I may
    organise the diary so that I can update it from anywhere. Probably have to move it onto a
@@ -161,9 +143,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="pitallizer"></a>
    <span class="title">11:08 - Problanced frughes buttora accenteness sions.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Dream diary:&nbsp; I was getting a plane from Paddington (I'm not sure
    how, it isn't an airport...) to Germany, I ended up getting on the wrong one - somehow I
@@ -179,9 +159,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="cabulamb"></a>
    <span class="title">02:01 - Modernail cobble amattend.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I can't believe I just did that - walked about 3 miles in bare feet - the
    last stretch down some of the worst tarmac imaginable.&nbsp; A crusty old bloke in the
@@ -191,9 +169,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="tates"></a>
    <span class="title">00:45 - Savordi tardispeck metry compres patrology.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I say I feel better at the moment. That I feel up. So why am I sitting in
    the middle of a graveyard at nearly one am? I like it here. I am away from the bustle.
@@ -209,9 +185,7 @@ Image of me
    
    <h2>Fri, 27 Aug 1999</h2>
    <div class="story">
-   <a name="brivelop"></a>
    <span class="title">23:58 - Imprerea tring wellire stolicenti ition.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Am I real? I really wish I wasn't. I will probably make a trip in tomorrow
    purely to get my comics. I may try a few bookshops to see if they have any decent books
@@ -226,9 +200,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="disaning"></a>
    <span class="title">23:21 - Lookings hazacident sardize.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Here I go again. Time moves on, the surroundings stay the same. I have
    booked a couple of days off - a tattoo followed by a visit to see my new relation. Almost
@@ -246,9 +218,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="itivand"></a>
    <span class="title">08:33 - Coalizer heralludes expoucher ortidabble torss.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I wish I had thought of banishment by laughter last night - I would have
    cheered up much quicker.</p>
@@ -256,9 +226,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="franchebra"></a>
    <span class="title">07:55 - Intervist kishark docured.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Give me something pretty, I hope I'll never be, I'd rather be creepy, and
    very strange. Not sure what to write again. I am reading again, but not on the train -
@@ -275,9 +243,7 @@ Image of me
    
    <h2>Thu, 26 Aug 1999</h2>
    <div class="story">
-   <a name="communera"></a>
    <span class="title">19:42 - Andertur auntio conts.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Geek. Freak. Pariah. Messiah.&nbsp; Call me whatever you want. Call me
    something. Give some sign you have noticed me. I am so boring - it's no wonder people
@@ -289,9 +255,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="sts"></a>
    <span class="title">18:48 - Ovestr evasighi speculous ational.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">How pointless was that? I didn't go to get my comics because I wanted to
    go for a drink, and then everyone leaves after I've only had time for one. I almost stayed
@@ -314,9 +278,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="coamino"></a>
    <span class="title">09:34 - Schedules shactres poputatto concemaxide.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">On a roll. In the zone. Goddamn I'm good. I can't believe I am so happy
    about getting here in time for a train. Very nearly got on the wrong train - bollocks, it
@@ -328,9 +290,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="signi"></a>
    <span class="title">09:19 - Microomed interstart hover.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Sweet as a nut. I wish all emergency recovery procedures went that
    smoothly. Nice start to the day, but is marred by the fact that I have to use the bus to
@@ -341,9 +301,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="dissi"></a>
    <span class="title">07:54 - Volti teriscoust savili yellored.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I think something snapped last night. I went to bed bitter and twisted and
    awoke feeling chirpy (lol, maybe not chirpy, but certainly better than is usual recently).
@@ -359,9 +317,7 @@ Image of me
    
    <h2>Wed, 25 Aug 1999</h2>
    <div class="story">
-   <a name="debullne"></a>
    <span class="title">19:10 - Crus opolytic sentss emphawks ferobati.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Hadn't eaten all day, but that doesn't excuse the pure piggery I just
    indulged in. Thai chicken with grilled vegetables. A lamb samosa. Two packs of Nik-Naks. A
@@ -384,9 +340,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="napocati"></a>
    <span class="title">18:31 - Ss spoonity breation.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I think I left my PC on in the office - oh, well. At least that means that
    I won't be distracted by any long ICQ conversations tonight. Is that good or bad? I enjoy
@@ -398,9 +352,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="inatiso"></a>
    <span class="title">08:50 - Screeifine blooming strions breasti.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I wish I was going to Plumstead - there have been 5 53s go past within 2
    minutes of each other. If I had left as soon as I got up instead of buggering about with
@@ -413,9 +365,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="dees"></a>
    <span class="title">08:42 - Wing lanteelter reoresc.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Just when I thought everything was back on track they cancel all of the
    bloody Greenwich line trains. Arse. I am on my way to New Cross - I can't be bothered to
@@ -425,9 +375,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="diatterpo"></a>
    <span class="title">07:39 - Ss expudete ssorts.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Forgetful bugger that I am, I have forgotten my phone. It's on my leaning
    chest of drawers. I hope it doesn't ring as the vibrating action may be enough to cause
@@ -445,9 +393,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="ades"></a>
    <span class="title">06:51 - Sificiz romet stantons habis.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Radio has just announced delays and cancellations on the Thameslink.
    Lovely. Am going to get all four of those CDs copied in one night. How's that for service?</p>
@@ -456,9 +402,7 @@ Image of me
    
    <h2>Tue, 24 Aug 1999</h2>
    <div class="story">
-   <a name="restating"></a>
    <span class="title">23:45 - Swaining assings ping reddents annotaves.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">It is difficult to write about happiness. The story I am writing at the
    moment involves a period of contentment for the primary character. I have just written a
@@ -478,9 +422,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="profferequest"></a>
    <span class="title">23:01 - Wiresso aimint crowont knicate expeculate.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Another late night. Have been for something to eat instead of just
    drinking though. Could see the train pull out as I entered the station. Every half hour at
@@ -499,9 +441,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="abidente"></a>
    <span class="title">11:15 - Res nowley cientand prostrine flanizes.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Lazy. I want it all, but can't be bothered to go out and get it. I deserve
    this pain. I deserve to be alone. Numb inside. Empty. Moving forward on auto-pilot - there
@@ -528,9 +468,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="southati"></a>
    <span class="title">09:31 - Diate indiveri perinjur.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I looked up the origin of the word &quot;nightmare&quot; this morning - I
    was wrong about the origins of the components being obvious...</p>
@@ -548,9 +486,7 @@ Image of me
    
    <h2>Mon, 23 Aug 1999</h2>
    <div class="story">
-   <a name="tillieri"></a>
    <span class="title">23:45 - Evergent millionship ressomin mackingly.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I have had an idea for a prose story. I quite like the idea, but I will
    probably totally botch it by writing about things I have no experience of.</p>
@@ -558,9 +494,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="buzzation"></a>
    <span class="title">23:01 - Attes metal juiceous.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I have a knot in my chest. My stomach rumbles and the tightness above it
    amplifies the movement into a tremble throughout my upper body. I am not cold, but am
@@ -583,9 +517,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="apous"></a>
    <span class="title">22:36 - Frickeep apprio luxurind freed protruct.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Relaxing. It's been a looong time since I walked across central London at
    night while sober. It loses a lot when you are drunk. During the day the city is too
@@ -606,9 +538,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="int"></a>
    <span class="title">21:34 - Tinians merisole jerk.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Should I give up on women and try to become gay? I have had several
    propositions from guys in clubs, so I probably wouldn't be alone for long if I did. The
@@ -624,9 +554,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="holming"></a>
    <span class="title">21:09 - Versiving asses horizes.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Same shit, different day. Pathetic story of my so called life. Left early
    even though there is no train due - had to get out into the fresh air before my head
@@ -642,9 +570,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="dierliter"></a>
    <span class="title">11:22 - Lander adorot ding.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Watched the Wicker Man this morning - one of my favourite films - I love
    the sort of film where a white Christian policeman with a high moral standard can be the
@@ -677,9 +603,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="rasher"></a>
    <span class="title">08:55 - Resistosc orition descented proming captian.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Creative journalism, I seem to be a master of it internally - I see things
    where there is nothing, I probably do the inverse too - but I don't notice that. I wish I
@@ -706,9 +630,7 @@ Image of me
 
    <h2>Sun, 22 Aug 1999</h2>
    <div class="story">
-   <a name="ancess"></a>
    <span class="title">23:18 - Authorring stores schass.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">After more than an hour of trying to get my palmtop to Sync I have given
    up. Had quite a long ICQ conversation - not sure how I feel afterwards - it feels good to
@@ -721,9 +643,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="pezoici"></a>
    <span class="title">20:15 - Trievati quintile ansit hizes.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Harvesting has begun. I love the smell of fresh cut straw. Wet hay bales.
    Lovely. Clouds above. A pity - I would like to look at the stars later, but they will be
@@ -732,9 +652,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="lutes"></a>
    <span class="title">20:10 - Dramsi franceste rewatens movaliza stortist.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">A trip through fields like patchwork as darkness falls.</p>
    <p align="left">A patchwork quilt <br>
@@ -750,9 +668,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="relateran"></a>
    <span class="title">19:47 - Prision lectien posiliber syncore stery.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I am a total mess as usual. My jeans are covered in dog hairs and food
    stains - my t-shirt is covered in dog hairs too, but they don't show up as much against
@@ -770,9 +686,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="chattige"></a>
    <span class="title">19:06 - Soceed placesso nostis.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I am a tactile person. I don't like passing by behind glass - I like to be
    down in the dirt - I like to touch and smell the landscape, to taste and hear it -
@@ -799,9 +713,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="sultati"></a>
    <span class="title">14:47 - Prizester indutching tings.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">My nephew Luke seems intrigued by what I'm doing... My mind is stuck in a
    groove. I should just relax and let things happen, sooner or later I will spot an opening
@@ -814,9 +726,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bliogrammer"></a>
    <span class="title">13:41 - Balaltent rants filabona.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I really miss having dogs. They love so unconditionally. I wish work was
    not so far from home - I would maybe have time to look after a dog then - but currently I
@@ -825,9 +735,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bened"></a>
    <span class="title">12:55 - Letousion manife sts modules.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I still find myself amused by an entry in Dan's diary from a week or so
    ago. He used to respect me for being single and not caring - rofl - I care alot - I just
@@ -838,9 +746,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="clergroine"></a>
    <span class="title">10:18 - Dacitend loades uring.</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Even kids TV programs depress me at the moment - the presenters are too
    gorgeous. I've always had a liking for accents, around this part of the country there is
@@ -851,9 +757,7 @@ Image of me
    
    <h2>Sat, 21 Aug 1999</h2>
    <div class="story">
-   <a name="duty"></a>
    <span class="title">22:54 - Wilberforce</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I am so forgetful. I can remember things like the command to check
    the number of free inodes on all ufs partitions in solaris, but go to
@@ -871,9 +775,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="die"></a>
    <span class="title">20:58 - Please</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A sudden feeling of despair washes over me. I don't want to die
    alone.</p>
@@ -881,9 +783,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="disagree"></a>
    <span class="title">20:37 - Contestation</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Arm itches. The itching is worse than the needle. When I was out on
    Friday I said it didn't hurt - which Clara immediately disputed - I
@@ -893,9 +793,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="news"></a>
    <span class="title">13:14 - Pome</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Planes and helicopters pass overhead (to and from Heathrow) no
    traffic jams in the sky... Not unexpected ones anyway. Wearing my
@@ -915,9 +813,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="rambles"></a>
    <span class="title">11:57 - Waffles</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Neck still hurts. I am going to my sister's this weekend - there
    may well be a big update on Sunday night. Was kinda depressed when I
@@ -959,22 +855,18 @@ Image of me
    </span>
    </div>
    
-   <div class="story">
-   <a name="pipe"></a>
-   <span class="title">00:49 - Pipe</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
-   <span class="body">
-   <p>Chaz wants a picture of me smoking my pipe for an Uncle Russell
-   column in the newsletter - Here goes...</p>
+1999-08-21 00:49 - Pipe
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Chaz wants a picture of me smoking my pipe for an Uncle Russell column in the
+newsletter - Here goes...
    
-   <p><img src="/web/20050419172954im_/http://www.s8n.net/images/pipe1.jpg" alt="pipe1.jpg (85471 bytes)" WIDTH="320" HEIGHT="240" /></p>
-   </span>
-   </div>
+.. image:: images/pipe1.jpg
+
+.. raw:: html
    
    <div class="story">
-   <a name="hateng"></a>
    <span class="title">00:22 - Hate</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I hate.</p>
    </span>
@@ -982,9 +874,7 @@ Image of me
    
    <h2>Fri, 20 Aug 1999</h2>
    <div class="story">
-   <a name="bubble"></a>
    <span class="title">23:44 - Bubbles</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Again the third train will arrive before the second. I'm glad I
    didn't write their sorting algorithm. On the train again. Total
@@ -994,9 +884,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="knuckle"></a>
    <span class="title">23:26 - Coupling</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Couples night. I think being alone in the middle of a crowd of
    people you know has got to be worse than being alone in a crowd of
@@ -1009,9 +897,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="gack"></a>
    <span class="title">15:43 - Weeble</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I am so up and down at the moment. I am also side to side - but
    that's just the train. Up and down probably isn't right - more like
@@ -1022,9 +908,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="shop"></a>
    <span class="title">15:12 - Ghopping</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Last entry was the first I've done while walking. Easier than in a
    cab.  Seat is warm, recently vacated. Train arrives - not
@@ -1046,9 +930,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="ache"></a>
    <span class="title">14:53 - Ache</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I ache physically today. I woke up with a hideous cramp in my leg -
    it still feels stiff now. My neck aches as well. I feel like curling
@@ -1060,9 +942,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="hatred"></a>
    <span class="title">07:32 - Hatred</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>At times like this I regret taking my curtains down. Sleeping is
    hard with light streaming in... I used to get pissed off with them a
@@ -1072,9 +952,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="inflamation"></a>
    <span class="title">07:26 - Sleep</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Wasn't much chance of getting back without sleeping - I dozed of a
    couple of times in the last entry... Managed to only take catnaps
@@ -1083,9 +961,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="ignorance"></a>
    <span class="title">06:49 - Ignorance</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Very tired. I have been up for nearly 24 hours now, and bed is
    another hour away. Didn't go as smoothly as planned. Must keep eyes
@@ -1104,9 +980,7 @@ Image of me
    
    <h2>Thu, 19 Aug 1999</h2>
    <div class="story">
-   <a name="mysogeny"></a>
    <span class="title">18:30 - NPC</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Wasn't sure whether to upload last night's entry - didn't upload
    most of it due to the fact that it was a long string of consonants
@@ -1120,9 +994,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="peepulation"></a>
    <span class="title">15:18 - Knees</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Beautiful people every way I turn. My feelings on this vary from
    day to day - some days it depresses me, other days I find it
@@ -1148,9 +1020,7 @@ Image of me
    
    <h2>Wed, 18 Aug 1999</h2>
    <div class="story">
-   <a name="boing"></a>
    <span class="title">21:48 - Boing</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A very interesting game of table football. I can't see the game,
    just the players. They should play every night... bouncy. Yum. A pity
@@ -1160,9 +1030,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="tunnel"></a>
    <span class="title">07:31 - SNR</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Writing for the sake of it. It doesn't seem right to me to write
    just for the sake of it - but it often seems to help the flow start,
@@ -1188,9 +1056,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="ansafone"></a>
    <span class="title">00:20 - Companionship</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Companionship is a privilege, not a right.&nbsp; I do not deserve
    to be anything but alone, so this is how I will stay.</p>
@@ -1199,9 +1065,7 @@ Image of me
    
    <h2>Tue, 17 Aug 1999</h2>
    <div class="story">
-   <a name="mediation"></a>
    <span class="title">22:51 - Googolplex</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Had a few drinks. I had an ICQ conversation earlier which I have
    decided will be the basis of my first pre-meditated entry
@@ -1245,9 +1109,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="cut"></a>
    <span class="title">12:27 - Cut</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I have said that I no longer cut myself, not quite true - this
    journal is basically cutting my mind open and letting my thoughts
@@ -1257,9 +1119,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="blah"></a>
    <span class="title">11:38 - Laugh</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Has all trace of the positivity I gained recently disappeared? No,
    it is still there. I don't know if I like it - I dream impossible
@@ -1299,9 +1159,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="hopkins"></a>
    <span class="title">11:20 - Believer</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Mind away from the job again - I just missed my train while
    daydreaming - and I don't even care. I noticed that it was my train
@@ -1318,9 +1176,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="po"></a>
    <span class="title">09:03 - Eh-oh</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Dilemma. As I sit here watching Witchfinder General my mind is
    elsewhere.  Uncertainty leads to inaction - my standard
@@ -1347,9 +1203,7 @@ Image of me
    
    <h2>Mon, 16 Aug 1999</h2>
    <div class="story">
-   <a name="phosphorescence"></a>
    <span class="title">22:29 - Iron Horse</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Another day done &amp; dusted, ripples from today will affect
    future events, but that is true of any day - really needed a drink, an
@@ -1392,9 +1246,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="salad"></a>
    <span class="title">11:35 - Salad</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I will becoming an uncle for the second time on Monday 6th September - my
    sister is booked in for a caesarean.</p>
@@ -1402,9 +1254,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="orange"></a>
    <span class="title">07:01 - Brite, Orange</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>How much do the opinions of others matter? Today is the day I get
    the opinions of others about my newly revealed interest in body art. I
@@ -1465,9 +1315,7 @@ Image of me
    
    <h2>Sun, 15 Aug 1999</h2>
    <div class="story">
-   <a name="down"></a>
    <span class="title">19:19 - Down</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Sitting here I am suddenly overcome with a sense of
    emptiness.&nbsp; The last couple of days I have avoided feeling down,
@@ -1475,7 +1323,9 @@ Image of me
    rest of my room is a total mess from when I dug out the bits needed to
    upgrade mum's PC. Here's the current state of my bed:</p>
    
-   <p><img src="/web/20050419172954im_/http://www.s8n.net/images/mess1.jpg" alt="mess1.jpg (12504 bytes)" /></p>
+.. image:: images/mess1.jpg
+
+.. raw:: html
    
    <p>I've also decided that each page of meanderings will have a picture
    of me taken at the beginning of that week.&nbsp; You've probably
@@ -1498,8 +1348,9 @@ Image of me
    it off longer than that knowing me...&nbsp; The webcam was level when
    this picture was taken:</p>
    
-   <p><img src="/web/20050419172954im_/http://www.s8n.net/images/drawers1.jpg" alt="drawers1.jpg (13903 bytes)"
-   WIDTH="320" HEIGHT="240"></p>
+.. image:: images/drawers1.jpg
+
+.. raw:: html
    
    <p>Find no hope in nothing new and I've never had a dream come true -
    I love that song, the best mix comes later though.&nbsp; Sky is
@@ -1526,23 +1377,20 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="unveiled"></a>
    <span class="title">15:31 - The Unveiling</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I have just found my webcam while looking for
    something else entirely - here is a picture of my new tattoo...</p>
    
-   <p align="left">
-     <img src="/web/20050419172954im_/http://www.s8n.net/images/tattoo1.jpg" width="320" height="240" />
-   </p>
+.. image:: images/tattoo1.jpg
+
+.. raw:: html
+
    </span>
    </div>
    
    <div class="story">
-   <a name="doe"></a>
    <span class="title">08:33 - Entry</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Diane - some things we cannot find anywhere, but we dream they can
    be found in other people. The woods are wondrous here - but
@@ -1574,9 +1422,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="deadpeople"></a>
    <span class="title">07:55 - Another death</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>The Twin Peaks athon died a death last night. Thirteen and a half hours
    left. Can still make it within the weekend, but I will no longer achieve
@@ -1596,9 +1442,7 @@ Image of me
    
    <h2>Sat, 14 Aug 1999</h2>
    <div class="story">
-   <a name="peaksathon"></a>
    <span class="title">16:46 - Damn good Coffee</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Diane - meanderings on the Twin Peaks athon. Audrey is insane in
    the first couple of episodes - I hadn't noticed before. The world is a
@@ -1654,9 +1498,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="cam"></a>
    <span class="title">15:00 - Left</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Bugger - can't find the web cam - must still be in my office
    somewhere - I thought I had brought it back. No pictures of the tattoo
@@ -1665,9 +1507,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="nutz"></a>
    <span class="title">14:34 - Marked</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>That wasn't bad at all. I have heard conflicting reports about how
    painful tattoos are - I now know that I can breeze through it. I'm
@@ -1687,9 +1527,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="dragon"></a>
    <span class="title">11:27 - Dragon</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Apparently the band I want will take too long for a Saturday
    session - they try not to do anything too major. I've found a cool one
@@ -1700,9 +1538,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="band"></a>
    <span class="title">09:57 - Bands</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Nearly time to go for my first tattoo - I've beaten the apathy - a
    small victory, but proves it can be beaten.</p>
@@ -1710,9 +1546,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="obsession"></a>
    <span class="title">08:02 - Obsession</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I have a high boredom threshold and low patience. I don't mind what
    the answer is - I just want the answer. Why do I get so
@@ -1723,9 +1557,7 @@ Image of me
    
    <h2>Fri, 13 Aug 1999</h2>
    <div class="story">
-   <a name="luck"></a>
    <span class="title">23:04 - Portent</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A choice - do I read my email now - or do I wait until it is no
    longer Friday 13th. I will decide in a few minutes. Choice didn't
@@ -1734,9 +1566,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="rip"></a>
    <span class="title">22:16 - Ramble</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A good night. A few drinks and a good talk with a friend. I am not
    drunk - yet am happy to be on my way home. A few weeks ago that would
@@ -1792,9 +1622,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="darkdays"></a>
    <span class="title">07:36 - Issues</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I seem to be managing to pick all the good ones first - Congo Bill
    - I thought it was going to be some story about a giant monkey -
@@ -1820,9 +1648,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="necronomicon"></a>
    <span class="title">07:02 - Bottles</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Bizarre film last night - it was a bloody good vampire B-movie with
    interesting cinematography and a weird moody soundtrack, but right at
@@ -1853,9 +1679,7 @@ Image of me
    
    <h2>Thu, 12 Aug 1999</h2>
    <div class="story">
-   <a name="box"></a>
    <span class="title">20:08 - Critique</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Top Ten really is very good - kinda like hill street blues with
    super powers... The primary protagonist - Toy Box - is a very cool
@@ -1872,9 +1696,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="stand"></a>
    <span class="title">19:49 - Wasting away</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Amazing how much time you can waste when you have nothing to do. On
    the slow train this evening - means I can get a seat - if I wanted to
@@ -1885,9 +1707,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="espana"></a>
    <span class="title">19:05 - Spending habits</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I spend far too much money on videos &amp; CDs - I just bought a
    pretty wide selection of films - from Laurel &amp; Hardy to a gore
@@ -1900,9 +1720,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="nin"></a>
    <span class="title">17:34 - Kaboom</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Tired. Hot. Bothered. The rain was helpful in resolving the heat
    issue. Not enough time before the train arrived. Drivers door propped
@@ -1928,9 +1746,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="darting"></a>
    <span class="title">08:21 - Spiral</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Clear, yet unfocused. Warm fuzzy feeling replaced by shivers - only
    to return minutes later. Prince Charles looks about 947 in a picture
@@ -1949,9 +1765,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="worry"></a>
    <span class="title">07:43 - Worry</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>The train is delayed by a couple of minutes - not only will I be able to
    catch it, but I will have time to get a coffee too. Things are going too
@@ -1960,9 +1774,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="avoidance"></a>
    <span class="title">07:34 - Training</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Shit! It's still 10 minutes until my train arrives, but I'm not
    going to be on it. The ticket machines are out of order and the queue
@@ -1971,9 +1783,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="slipping"></a>
    <span class="title">06:40 - It Begins</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I am shivering. Is it the cold, the drink last night or the fact
    that the longer I wait for this email the worse the fear gets? I hope
@@ -1984,9 +1794,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="teetering"></a>
    <span class="title">00:54 - On the edge</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>She hasn't replied.&nbsp; I don't know if I will be able to
    sleep.&nbsp; Aargh.</p>
@@ -1995,9 +1803,7 @@ Image of me
    
    <h2>Wed, 11 Aug 1999</h2>
    <div class="story">
-   <a name="lung"></a>
    <span class="title">23:35 - At the Circus</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Lydia, oh Lydia - oh have you met Lydia - Lydia the tattooed
    lady. I can't think tonight. My whole life is based on an email at the
@@ -2040,9 +1846,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="optimism"></a>
    <span class="title">14:47 - Hopeful</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Getting hard to think - she is probably up by now - how long until
    she checks her mail?  It has been somewhen around nine at night here
@@ -2053,9 +1857,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="anticipation"></a>
    <span class="title">07:46 - Still waiting</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Thoughts spiralling out of control - can't keep up. Both up &amp;
    down. Someone cares.  All the BS I've been churning around inside for
@@ -2097,9 +1899,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="rollin"></a>
    <span class="title">06:42 - Keep on rollin'</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Aaargh!&nbsp; I can't believe I actually sent that email - hope she
    doesn't take too long to reply, I might die from the
@@ -2108,9 +1908,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="set"></a>
    <span class="title">00:32 - Rack 'em up</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I should be sleeping, but after the email I have just written my
    heart is racing too fast. Hopefully I have just arranged to go on
@@ -2135,18 +1933,14 @@ Image of me
    
    <h2>Tue, 10 Aug 1999</h2>
    <div class="story">
-   <a name="wonderful"></a>
    <span class="title">22:53 - Wonderful</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Erin just called me a wonderful person. Wow.</p>
    </span>
    </div>
    
    <div class="story">
-   <a name="doubledare"></a>
    <span class="title">22:32 - Inadequate</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Damn, ran out of space for the last entry. I think I was pretty
    much finished anyway though. I make everything into a crisis. In
@@ -2163,9 +1957,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="school"></a>
    <span class="title">21:39 - Fuck it all</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A parting. Sad. My emotions are held too deep for me to feel
    anything strongly. I would very much like to be an openly emotional
@@ -2221,9 +2013,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="what"></a>
    <span class="title">21:11 - What was that?</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>The air conditioning in my office is broken. The heat and
    concentration have conspired together to bring about a headache that
@@ -2241,9 +2031,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="drugs"></a>
    <span class="title">14:35 - Recreational Pharmaceuticals</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Quick update: people keep recommending that I should be on drugs -
    either recreational or prescription. I am not sure how I feel about
@@ -2253,9 +2041,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="luggage"></a>
    <span class="title">10:42 - Black Goddess</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Coffee, my dark goddess. Pleasure &amp; pain in one hot bitter
    package. Caffeine rush.  Lovely. A light drizzle falls - blanketing
@@ -2301,9 +2087,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bottle"></a>
    <span class="title">09:53 - Message in a Bottle</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I received an email from Erin yesterday with the following quote:</p>
    
@@ -2346,9 +2130,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="cybernetic"></a>
    <span class="title">09:43 - Dreaming of you</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A couple of dream diary entries today:</p>
    
@@ -2386,9 +2168,7 @@ Image of me
    
    <h2>Mon, 09 Aug 1999</h2>
    <div class="story">
-   <a name="shock"></a>
    <span class="title">23:20 - Come up and see me sometime</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>With the statistic that men think of sex every 30 seconds (or whatever the
    statistic actually is) I find it strange that I have never really mentioned
@@ -2407,9 +2187,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="long"></a>
    <span class="title">21:44 - Things</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Another day older - have I learned anything? Installing the FP
    server extensions is just as much of a bitch under Solaris as it is in
@@ -2496,9 +2274,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="creation"></a>
    <span class="title">18:24 - Creation Myth</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Taking a bit of a break to clear my mind. It seems I am surrounded
    by creative people at work. Paul has shown me a number of pieces of
@@ -2515,9 +2291,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="lollirot"></a>
    <span class="title">12:02 - Lollirot</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Damn fine coffee! That really hits the spot. If only I didn't have
    to spill it down my front every time I am wearing white :( I suppose
@@ -2539,9 +2313,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="moink"></a>
    <span class="title">10:55 - Moink!</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Music for this morning's journey a bit more up-beat &amp; cheery -
    Moink by Jackie on Acid. Lots of cool lines in this one - I wish you
@@ -2597,9 +2369,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="monkey"></a>
    <span class="title">09:08 - Gush</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Monkey Business - almost no plot, just pure chaos. Superb. The
    piano and harp solos are good too. Not too many songs. Even Zeppo gets
@@ -2609,9 +2379,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="windchime"></a>
    <span class="title">07:21 - Windchimes</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Even when I don't have to be up until late I get up anyway. Why am
    I doing this? Tarot reading yesterday said I need to be honest with
@@ -2637,9 +2405,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="desk"></a>
    <span class="title">07:02 - Dreams</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>All my dreams seemed to be work related, moving desks around the
    office and such like.  Very boring stuff.</p>
@@ -2648,9 +2414,7 @@ Image of me
    
    <h2>Sun, 08 Aug 1999</h2>
    <div class="story">
-   <a name="nun"></a>
    <span class="title">21:39 - Happiness</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A plate of stew and a pipe of three nuns - first pipe I've smoked
    in a couple of months. Feeling nice &amp; relaxed. Terrorvision's
@@ -2703,9 +2467,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="harpo"></a>
    <span class="title">20:02 - Solo</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Almost time to check on the food. This is a very funny film it's so
    obvious that it is taken from the stage. As James Robinson once wrote
@@ -2729,9 +2491,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="marx"></a>
    <span class="title">20:02 - Matinee</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Boredom has caught up again. I close my eyes and see couples
    entangled in a passionate embrace. Why does my mind have to torture
@@ -2780,9 +2540,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="tarot"></a>
    <span class="title">13:55 - Tarot reading from 8th August 1999</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <table border="0" width="100%">
      <tr>
@@ -2850,9 +2608,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="interp"></a>
    <span class="title">13:55 - Interpretation</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>First reading. Question? Will my loneliness ease before the millennium?</p>
    
@@ -2917,9 +2673,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="deadgirl"></a>
    <span class="title">13:49 - Bela Lugosis Dead</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Sitting alone on a Sunday afternoon, reading tarot cards with a
    subtitled French horror movie (La Morte Vivant - by Jean Rollin) in
@@ -2928,9 +2682,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bizarre"></a>
    <span class="title">12:27 - Bizarre</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Some things that I'll never say or hear<br>
    I love you too<br>
@@ -2981,9 +2733,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="trees"></a>
    <span class="title">10:54 - Dreaming</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I slept straight through for 14 hours last night - dreamt alot but
    don't remember much.&nbsp; Some sort of secret agent thing where I
@@ -3026,9 +2776,7 @@ Image of me
    
    <h2>Sat, 07 Aug 1999</h2>
    <div class="story">
-   <a name="mick"></a>
    <span class="title">16:48 - Gentle Mick's</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>They were pretty busy - couldn't fit me in this afternoon... I'm
    going in next week getting a Tribal band - (from card 10c) next Saturday
@@ -3037,9 +2785,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="battery"></a>
    <span class="title">15:31 - Tagging</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Shopping then bed. I just looked at digital cameras on the web - then
    thought when am I ever going to use it? I'll take a half dozen pictures
@@ -3058,9 +2804,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="goddess"></a>
    <span class="title">07:24 - Bedroom of a Stranger</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Updating last entry - still makes no sense - some will have to remain
    uncorrected. Whirr of fan. Bathroom needed - continue later. No dream
@@ -3176,9 +2920,7 @@ Image of me
    
    <h2>Fri, 06 Aug 1999</h2>
    <div class="story">
-   <a name="square"></a>
    <span class="title">23:03 - I'm afraid I was rather drunk</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Leicester square smells like spliff- let's go to Soho. I got cash
    earlier - need none now - others need now. Plenty tourists - will we
@@ -3217,9 +2959,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="sack"></a>
    <span class="title">20:25 - Blather</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Brief drunken update - not drunk, but had several. Jumping jack fiash -
    mistype - sack, enough for now.</p>
@@ -3227,24 +2967,21 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="girlscout"></a>
    <span class="title">16:17 - Girlscout</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Just managed to convert a file I got on a Jack Off Jill mailing list last
    night to jpeg format...&nbsp; The cover picture from the My Cat/Swollen
    7&quot; single.&nbsp; Very cool picture.</p>
    
-   <p>
-   <img src="/web/20050419172954im_/http://www.s8n.net/images/mycat.jpg" alt="My Cat/Swollen" WIDTH="384" HEIGHT="432" />
-   </p>
+.. image: images/mycat.jpg
+
+.. raw:: html
+
    </span>
    </div>
    
    <div class="story">
-   <a name="bread"></a>
    <span class="title">06:53 - Apathatic</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Black as the devil bitter as hell. Gaping hole all empty. I can't
    even save myself. Everything I touch I break - I wanna break you. Sip.
@@ -3332,9 +3069,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="jeans"></a>
    <span class="title">05:50 - Balloon</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Dream.&nbsp; A huge garden.&nbsp; I am there, so are my sister, my
    nephew Luke and my mother.&nbsp; It is blue sky overhead, but I don't
@@ -3366,9 +3101,7 @@ Image of me
    
    <h2>Thu, 05 Aug 1999</h2>
    <div class="story">
-   <a name="out"></a>
    <span class="title">19:51 - Cornelius</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Time out.&nbsp; Consider the near past.&nbsp; Paul Pope -
    &quot;S&quot; is Cornelius. &nbsp; Moorcock gets everywhere.&nbsp; St
@@ -3380,9 +3113,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="endit"></a>
    <span class="title">19:12 - Ending</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>More trains.&nbsp; Anti-noise.&nbsp; 40 seconds - I have tracks that
    wouldn't fill this buffer.&nbsp; Random consciousness.&nbsp;
@@ -3399,9 +3130,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="music"></a>
    <span class="title">18:56 - Music and reads</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>MUSIC!!! Yay!&nbsp; Hunger warning running the ships ashore.&nbsp;
    Get ready for the bomb.&nbsp; Warren Ellis is off of both The Authority
@@ -3412,9 +3141,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="comics"></a>
    <span class="title">18:00 - Beep</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Heat, sticky.&nbsp; Mind the gap x2.&nbsp; Behind the yellow line on
    the red line. &nbsp; Ruin transfer rumble crash squeak.&nbsp; Posh
@@ -3432,9 +3159,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="cheat"></a>
    <span class="title">17:37 - Cheating</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Another day done.&nbsp; Scored 92% on Cisco sales exam without any
    training. &nbsp; Today is a drier hot than most of the time
@@ -3457,9 +3182,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="result"></a>
    <span class="title">11:48 - Kerplunk</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Ooh, some votes on my polls - the early results on the second poll
    are that I don't scare or bore people.&nbsp; Cool, although it may just
@@ -3469,9 +3192,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="missing"></a>
    <span class="title">10:11 - Mrnm</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Just missed a train due to the fact that they have closed the stairs
    at London Bridge for no apparent reason. just ripped the cover on my
@@ -3481,9 +3202,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="coffee"></a>
    <span class="title">08:42 - Bad Coffee</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Took 20 mins to walk from Moorgate - longer than I expected - only 20
    mins early. Found a cafe just round the corner - second coffee of the
@@ -3498,9 +3217,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="food"></a>
    <span class="title">07:38 - Kerrang!</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Forgot to buy Kerrang! yesterday, so there's probably not going to be
    much in the way of updates today... I'll be reading K on the way in
@@ -3537,9 +3254,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="badchoices"></a>
    <span class="title">06:07 - What was I bloody thinking...</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Looks like the new poll has broken the justification as well.&nbsp; I
    hate frontpage - why does it feel the urge to tamper with pasted html
@@ -3552,9 +3267,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bridge"></a>
    <span class="title">05:43 - Burble</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A dream diary entry.</p>
    
@@ -3579,9 +3292,7 @@ Image of me
    
    <h2>Wed, 04 Aug 1999</h2>
    <div class="story">
-   <a name="pollagain"></a>
    <span class="title">21:45 - Chewy</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Aah, a Slim Jim spicy beef strip...&nbsp; or in other words a 90p dog
    chew.&nbsp; Why is it so easy to hate what is different?</p>
@@ -3679,9 +3390,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="scared"></a>
    <span class="title">21:19 - Scaring</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Andy said that I had to mention him and Chaz in tonights entry -
    consider yourselves mentioned lads.&nbsp; I hate these trousers - I have
@@ -3706,9 +3415,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="sardines"></a>
    <span class="title">07:18 - Sardines</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Hehe, got a seat. Rush hour sardines is so much fun... not! Coffee
    time. I wish there was an easier way to timeshare a cup of coffee and a
@@ -3774,9 +3481,7 @@ Image of me
    
    <h2>Tue, 03 Aug 1999</h2>
    <div class="story">
-   <a name="imitation"></a>
    <span class="title">22:14 - Gone</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Why do people constantly imitate others?&nbsp; I may not be the most
    innovative of people, but at least when I do something unoriginal it is
@@ -3848,9 +3553,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="latte"></a>
    <span class="title">12:38 - Slurp</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>A hot cinnamon latte and a seat while I'm waiting for the train. The
    larger aspects of life may be f*cked - but the little pleasures are
@@ -3859,9 +3562,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="esp"></a>
    <span class="title">11:53 - Skipping</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Soundtrack is &quot;Sleep no more&quot; by Comsat Angels. Maybe if I
    forced myself to listen to cheerful chart music it would actually make
@@ -3887,9 +3588,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="darkthoughts"></a>
    <span class="title">11:40 - Dark Thoughts</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>I wish I could find something light to think about but my thoughts
    are all tainted by darkness. Everywhere I look I see couples, sitting
@@ -3905,9 +3604,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="running"></a>
    <span class="title">10:40 - Late</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>No dream diary entry for today - I couldn't be bothered to get up
    when my alarm went off and had forgotten them by the time I got up - so
@@ -3924,9 +3621,7 @@ Image of me
    
    <h2>Mon, 02 Aug 1999</h2>
    <div class="story">
-   <a name="final"></a>
    <span class="title">23:59 - Jalfriezi</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Last update for today - I've set myself a time limit too - must be
    finished before Christian Woman by Type O Negative finishes (not that
@@ -3943,9 +3638,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="slipknot"></a>
    <span class="title">22:31 - Train Catharsis</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Back on the trains - hope they are working tonight - Slipknot
    providing the soundtrack. &nbsp; Wait &amp; Bleed is an amazing
@@ -4018,9 +3711,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bitter"></a>
    <span class="title">19:18 - Bitter</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>In the spirit of randomness in which I created this page I picked an
    idea out of the air and added a poll.&nbsp; Unfortunately there seems to
@@ -4076,9 +3767,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="walking"></a>
    <span class="title">11:24 - Weather</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Damn this changeable weather. It was raining when I reached St. 
    Pancras so I decided to walk to Charing Cross. The rain had stopped by
@@ -4090,9 +3779,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="bloodytrains"></a>
    <span class="title">09:48 - Bloody Trains!</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Bloody trains! &quot;Due to an incident in London&quot; the
    Thameslink trains are being diverted to St. Pancras. The city branch of
@@ -4151,9 +3838,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="doctwo"></a>
    <span class="title">09:25 - Out and to work</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Out of the doctors 10 mins before I was supposed to be there. Cool. 
    BP is lower - must still be high though as she asked me back to get it
@@ -4164,9 +3849,7 @@ Image of me
    </div>
    
    <div class="story">
-   <a name="doctor"></a>
    <span class="title">08:38 - Doctor</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p>Sitting in a graveyard listening to switchblade symphony (The Three 
    Calamities) and drinking a hot hazlenut latte. Its times like this when I feel
@@ -4202,118 +3885,107 @@ Image of me
    </span>
    </div>
    
-   <div class="story">
-   <a name="detached"></a>
-   <span class="title">07:10 - Hmmm, time for a dream diary entry methinks...</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
-   <span class="body">
-   <p>Starts with me as an external observer watching a town using high
-   tech bows and arrows (fire laser bolts) to repel an invasion by flying
-   energy beings.&nbsp; The energy beings begin to fly away, and I
-   follow.&nbsp; Once we are out of sight of the town the energy beings
-   land and transform into a group of female warriors.&nbsp; As they walk
-   across the land they come across strange buildings which are built
-   partly under ground.&nbsp; They find a semi-detached house in the
-   middle of a moor and decide to move in.&nbsp; One of the amazons gets
-   into and argument with the others, I think it is because she feels
-   sorry for attacking the town earlier.&nbsp; I can't remember how, but
-   I enter the scene and start to try and save the one with a conscience
-   (I am not sure what I am saving her from, but this is a dream and
-   doesn't need to make sense).&nbsp; After they kill me several times
-   while making rescue attempts and I am mysteriously resurrected each
-   time I finally make it to the door of the room where she is sleeping
-   by shinning up the banister (there were no stairs for some
-   reason).&nbsp; I am just about to enter her room and try to convince
-   her to leave when another door on the hallway opens and one of the
-   amazons comes out and sees me.&nbsp; Her war cries bring the others
-   out and just before I am overwhelmed by their numbers I say &quot;I am
-   only trying to save her!&quot; and suddenly they stop attacking
-   me.&nbsp; I think they saw me as some sort of religious figure who had
-   come to save her soul.&nbsp; That's when I woke up..</p>
-   
-   <p>That one was bizarre even for me.</p>
-   
-   <p>In darkness I am whole<br /> 
-   The deep night soothes my pain<br /> 
-   Wrap me in your black wings<br /> 
-   Sweet darkness take me home</p>
-   </span>
-   </div>
-   
-   <h2>Sun, 01 Aug 1999</h2>
-   <div class="story">
-   <a name="aardvark"></a>
-   <span class="title">19:30 - Not yet thin</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
-   <span class="body">
-   <p>Final update for today...&nbsp; Ween's &quot;Chocolate and Cheese&quot;
+1999-08-02 07:10 - Hmmm, time for a dream diary entry methinks...
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   health, personal advice and plain old sympathy.&nbsp; It's probably too early
-   </span>
-   </div>
+Starts with me as an external observer watching a town using high tech bows and
+arrows (fire laser bolts) to repel an invasion by flying energy beings.
+The energy beings begin to fly away, and I follow. Once we are out of
+sight of the town the energy beings land and transform into a group of female
+warriors. As they walk across the land they come across strange buildings
+which are built partly under ground. They find a semi-detached house in
+the middle of a moor and decide to move in. One of the amazons gets into
+and argument with the others, I think it is because she feels sorry for
+attacking the town earlier. I can't remember how, but I enter the scene
+and start to try and save the one with a conscience (I am not sure what I am
+saving her from, but this is a dream and doesn't need to make sense).
+After they kill me several times while making rescue attempts and I am
+mysteriously resurrected each time I finally make it to the door of the room
+where she is sleeping by shinning up the banister (there were no stairs for
+some reason). I am just about to enter her room and try to convince her
+to leave when another door on the hallway opens and one of the amazons comes
+out and sees me. Her war cries bring the others out and just before I am
+overwhelmed by their numbers I say &quot;I am only trying to save her!&quot;
+and suddenly they stop attacking me. I think they saw me as some sort of
+religious figure who had come to save her soul. That's when I woke up.
+
+That one was bizarre even for me.
+
+| In darkness I am whole
+| The deep night soothes my pain
+| Wrap me in your black wings
+| Sweet darkness take me home
+
+Sun, 01 Aug 1999
+----------------
+
+1999-08-01 19:30 - Not yet thin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Final update for today... Ween's &quot;Chocolate and Cheese&quot; playting in
+the background.
+
+Over the past week or so I have been trying to be more open about my emotions -
+rather than bottling them up inside and leaving them to ferment.  It seems to
+be having interesting effects.  I have had questions about my health, personal
+advice and plain old sympathy.  It's probably too early to hope that this is
+going to lead me out of the darkness that has plagued me for so long, it is
+making me feel relatively positive at the moment though...
+
+1999-08-01 17:55 - Novelty
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Wow, two updates on the first day - won't be able to keep that up for long ;)
+
+I hate this heat. I have been sitting in front of the screen sweating
+all day. I wish it could be night eternally - there is no time I feel more
+content than when walking in a light drizzle in the early hours of the morning
+- the only thing in my experience that competes is sitting on a beach at night
+- nothing but the sound of waves on the shore. I wish there was enough
+space in my room to get an air conditioning unit, but there is far too much
+stuff crammed in here already.
    
-   <div class="story">
-   <a name="cucumber"></a>
-   <span class="title">17:55 - Novelty</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
-   <span class="body">
-   <p>Wow, two updates on the first day - won't be able to keep that up for long ;)</p>
+| Wet heat
+| Drowning in mediocrity
+| Soul screaming in pain
+| But all is silent
    
-   <p>I hate this heat.&nbsp; I have been sitting in front of the screen sweating
-   all day. I wish it could be night eternally - there is no time I feel more
-   content than when walking in a light drizzle in the early hours of the morning
-   - the only thing in my experience that competes is sitting on a beach at night
-   - nothing but the sound of waves on the shore.&nbsp; I wish there was enough
-   space in my room to get an air conditioning unit, but there is far too much
-   stuff crammed in here already.</p>
-   
-   <p>Wet heat<br>
-   Drowning in mediocrity<br>
-   Soul screaming in pain<br>
-   But all is silent</p>
-   
-   <p>I really have to get a life - but I have no idea where to look and I
-   wouldn't know what to do with it if I had one anyway.</p>
-   </span>
-   </div>
-   
-   <div class="story">
-   <a name="breadpoem"></a>
-   <span class="title">09:29 - Poetry</span>
-   <span class="category">Category: <a href="/web/20050419172954/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
-   <span class="body">
-   <p>Sitting here listening to &quot;Bread and Jam for Frances&quot; by
-   Switchblade Symphony I have felt the urge to write some poetry for the first
-   time in ages...&nbsp; Haven't got anything polished, but here are some
-   fragments...</p>
-   
-   <p>Emptiness is all I feel<br />
-   Why must I be so alone?<br />
-   Is it me?</p>
-   
-   <p>This emptiness blackens my soul<br />
-   Soon to be void, an empty hole<br />
-   The blackness spreads<br />
-   And I know not how to halt the advance<br />
-   Before I am a mere husk<br />
-   Blindly going through habitual motions<br />
-   In an imitation of life</p>
-   
-   <p>My heart is numb<br />
-   Except for the dull, throbbing ache of loneliness</p>
-   
-   <p>What is there to keep me here?<br />
-   Who is there that cares?<br />
-   Why do I keep going?<br />
-   Please tell me the point.</p>
-   
-   <p>Mediocrity<br />
-   Emptiness<br />
-   Pain<br />
-   Life.</p>
-   
-   <p>I think I shall sleep now - not because I am tired, but because it will grant me a few
-   hours of sweet oblivion.</p>
-   </span>
-   </div>
-   
+I really have to get a life - but I have no idea where to look and I
+wouldn't know what to do with it if I had one anyway.
+
+1999-08-01 09:29 - Poetry
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Sitting here listening to "Bread and Jam for Frances" by
+Switchblade Symphony I have felt the urge to write some poetry for the first
+time in ages... Haven't got anything polished, but here are some
+fragments...
+
+| Emptiness is all I feel
+| Why must I be so alone?
+| Is it me?
+
+| This emptiness blackens my soul
+| Soon to be void, an empty hole
+| The blackness spreads
+| And I know not how to halt the advance
+| Before I am a mere husk
+| Blindly going through habitual motions
+| In an imitation of life
+
+| My heart is numb
+| Except for the dull, throbbing ache of loneliness
+
+| What is there to keep me here?
+| Who is there that cares?
+| Why do I keep going?
+| Please tell me the point.
+
+| Mediocrity
+| Emptiness
+| Pain
+| Life.
+
+I think I shall sleep now - not because I am tired, but because it will grant
+me a few hours of sweet oblivion.>
+
