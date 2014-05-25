@@ -1,6 +1,7 @@
 var Site = {
     init : function () {
         this.applyStyles();
+        this.disqus();
     },
 
     applyStyles: function () {
@@ -110,6 +111,34 @@ var Site = {
         $( this ).find("a.right").append(
             "<span class='glyphicon glyphicon-chevron-right'></span>");
     },
+
+    disqus: function() {
+        var toggling = false;
+        var toggle_indicator = function() {
+            $("#comments-panel-indicator").toggleClass(
+                "fa-chevron-up fa-chevron-down");
+            toggling = false;
+        };
+        var disqus_toggle = function() {
+            if (! toggling ) {
+                toggling = true;
+                $('#disqus_thread').collapse('toggle');
+            }
+        };
+        var comments_toggle = function() {
+            if (! toggling ) {
+                toggling = true;
+                $('#comments-panel').collapse('toggle');
+            }
+        };
+        $('#disqus_thread').on('show.bs.collapse hide.bs.collapse',
+                               comments_toggle);
+        $('#comments-panel').on('show.bs.collapse hide.bs.collapse',
+                                disqus_toggle);
+        $('#comments-panel').on('shown.bs.collapse hidden.bs.collapse',
+                                toggle_indicator);
+    },
+
 };
 
 $(document).ready( function () {
