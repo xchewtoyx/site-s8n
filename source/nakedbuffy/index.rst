@@ -12,7 +12,7 @@ primary cast revealed all to our camera...
 
 If you are under 18 then :doc:`turn back<../index>` now.
 
-Without further ado - let's introduce our stars:</p>
+Without further ado - let's introduce our stars:
 
 .. toctree::
    :maxdepth: 2

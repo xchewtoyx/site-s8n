@@ -16,7 +16,6 @@ at the office.
    <div class="story">
    <a name="tely"></a>
    <span class="title">12:34 - Irksiza jamainso testion.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Infrequent updates. Train not busy, but very bouncy. Chatting constantly
    for a couple of days and I always drag the subject back to me. I have been told I'm cute -
@@ -35,7 +34,6 @@ Tue, 28 Dec 1999
    <div class="story">
    <a name="cand"></a>
    <span class="title">21:11 - Demorill pitaunde reunivervient.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Back from my sister's and back in the saddle. I'm getting back into
    the depressed state of mind. Christmas will tend to do that. Lot's of
@@ -97,7 +95,6 @@ Sat, 25 Dec 1999
    <div class="story">
    <a name="notaians"></a>
    <span class="title">19:41 - Belativa hioning foots unted skiled.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Christmas day and the first time I've watched soaps in ages - I think I
    know why. Few happy relationships - many bad relationships but virtually no-one above the
@@ -113,7 +110,6 @@ Thu, 23 Dec 1999
    <div class="story">
    <a name="draftees"></a>
    <span class="title">14:35 - Honos confouse squets.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Tired mind is not creative mind.</p>
    </span>
@@ -122,7 +118,6 @@ Thu, 23 Dec 1999
    <div class="story">
    <a name="condiployer"></a>
    <span class="title">08:14 - Regests bothunct benchanging roughtis.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Morning after. No hangover. Nice. And I didn't even remember to drink lots
    before bed. Smooth. Got the mattress in the spare room at the Catford doss house. Great.
@@ -143,7 +138,6 @@ Wed, 22 Dec 1999
    <div class="story">
    <a name="formamo"></a>
    <span class="title">17:39 - Discounting access multicalp rationstor hableair.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">My God! It's Swiss Tony. &quot;Getting to Greenwich is very much like
    making love to a beautiful woman...&quot; heh. Getting withdrawal symptoms from lack of
@@ -154,7 +148,6 @@ Wed, 22 Dec 1999
    <div class="story">
    <a name="curations"></a>
    <span class="title">16:50 - Territy iateri clowni knucking jasium.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Is the writing less frequent because I am more happy? Because I am writing
    other stuff too which is creative instead of introspective. I'll have to link to it soon,
@@ -166,7 +159,6 @@ Wed, 22 Dec 1999
    <div class="story">
    <a name="asitouchi"></a>
    <span class="title">15:13 - Partness leasintal king aned.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Blocked. Interesting. Oh well, it's happened before and it's
    gone soon after starting to write utter bollocks. Hard to concentrate when there's
@@ -191,7 +183,6 @@ Tue, 21 Dec 1999
    <div class="story">
    <a name="amonstrib"></a>
    <span class="title">20:31 - Wiveazila capacosi siturer ideducted moustwei.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Cooold fingers. Drunk. Mucho pisto. No updates means
    readers are not happy campers.</p>
@@ -201,7 +192,6 @@ Tue, 21 Dec 1999
    <div class="story">
    <a name="breatsly"></a>
    <span class="title">08:37 - Pres knesatio shing icinged.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Cold. Fingers numb. Brain numb. Will have time to rest
    soon. To sleep. To write. To shop. To wallow in self hatred.
@@ -214,7 +204,6 @@ Tue, 21 Dec 1999
    <div class="story">
    <a name="eyebring"></a>
    <span class="title">08:29 - Waits lightier scencia ity.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Terse. The people you know are the ones you hate. People like
    my writing. Bizarre.</p>
@@ -224,7 +213,6 @@ Tue, 21 Dec 1999
    <div class="story">
    <a name="ioratori"></a>
    <span class="title">07:52 - Whities oacknes anis reprolete.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Headache. Not thinking straight. Ribs hurt - why?</p>
    </span>
@@ -238,7 +226,6 @@ Fri, 17 Dec 1999
    <div class="story">
    <a name="experind"></a>
    <span class="title">08:47 - Owidenne ling assiati enes.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Not gonna be as late as I thought. Except for the fact that the 8:52
    is as late as ever...</p>
@@ -248,7 +235,6 @@ Fri, 17 Dec 1999
    <div class="story">
    <a name="winchend"></a>
    <span class="title">07:57 - Slamencli sintronaught recepond.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I am going to be totally late. Was up in plenty - dressed quick - no email
    checking. Just before I left my arse decided to explode - on the ivory throne for 15
@@ -267,7 +253,6 @@ Thu, 16 Dec 1999
    <div class="story">
    <a name="airvoyagmat"></a>
    <span class="title">19:18 - Poipai dedushe cator nes.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Oh boy. This is the week. Pissed out of my skull last night. Still in the
    same clothes and I smell the part. Slept on the floor. No need to mention which one.
@@ -289,7 +274,6 @@ Wed, 15 Dec 1999
    <div class="story">
    <a name="uring"></a>
    <span class="title">08:02 - Joinage dessergy millidor.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Wednesday already - where does the bloody time go? Trains back to normal
    today it seems. Not quite as crowded as usual though. The pavement repairs in St Albans
@@ -304,7 +288,6 @@ Wed, 15 Dec 1999
    <div class="story">
    <a name="stiola"></a>
    <span class="title">07:52 - Recipation werveness kins.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I am sure meeting some weird people online - I was actually called
    handsome last night. Bizarre. I'll have to make sure no-one has hacked my site and
@@ -321,7 +304,6 @@ Tue, 14 Dec 1999
    <div class="story">
    <a name="ophilidi"></a>
    <span class="title">19:41 - Anlitati twinfan behoolon.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Fast train on the slow tracks. Wobbly. Now that people know we
    are going the right way they have all shut up. Things back to the usual insularity.
@@ -358,7 +340,6 @@ Tue, 14 Dec 1999
    <div class="story">
    <a name="evanteaki"></a>
    <span class="title">19:16 - Hesorre elaborato reeast flagation undered.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">This is fun. The train has been diverted miles out of the way.
     We are going the way that the driver announced, but everyone is panicking. 
@@ -376,7 +357,6 @@ Tue, 14 Dec 1999
    <div class="story">
    <a name="deemishin"></a>
    <span class="title">18:30 - Phattuit corein foruman hast.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">God I'm knackered. Second day in a row I've left the office hardly
    able to think. Could really do with a drink tonight, but no-one seemed to be up for
@@ -389,7 +369,6 @@ Tue, 14 Dec 1999
    <div class="story">
    <a name="interdive"></a>
    <span class="title">07:45 - Eversfigur tomodulte ordin toiletsi ness.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Was totally spent when I got home last night. Too many things to do all at
    the same time. Still so much to do. I keep getting wacky crossover ideas. Twin Stakes. Two
@@ -409,7 +388,6 @@ Mon, 13 Dec 1999
    <div class="story">
    <a name="rubbesto"></a>
    <span class="title">07:52 - Thermina wes sinizi moderatura attention.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I keep getting hit by flashes of inspiration. I'm going to have to decide
    which way to go soon - I think I'm pretty much there though. Too much coffee seems to make
@@ -421,7 +399,6 @@ Mon, 13 Dec 1999
    <div class="story">
    <a name="videss"></a>
    <span class="title">11:20 - Reconsto profiting intively fontainali.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Wearing a T-shirt featuring Delirium of the Endless - kinda on topic, what
    with me joining the <a href="/web/20050419173532/http://homes.acmecity.com/buffy/ghoul/51/">Krazy Kult </a>last
@@ -447,7 +424,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="assizab"></a>
    <span class="title">07:56 - Itators sitartl aplai.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Am I ready to lose yet?</p>
    </span>
@@ -456,7 +432,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="panizatio"></a>
    <span class="title">07:32 - Storehen quargulati sublaneous ibes tainten.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Was only one scare yesterday in the end - must be losing my touch. The new
    girl thinks people who are over 20 and big sci-fi fans are scary and sad. Can't really see
@@ -477,7 +452,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="presser"></a>
    <span class="title">21:54 - Rudenall emsitan anting steabipara.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Late. Concealment. Thought I'd scared three pen-pals today - only two in
    the end though. Should have known that it would take more than that to get rid of des - I
@@ -491,7 +465,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="downsur"></a>
    <span class="title">07:52 - Eni redonize intervie.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Chin itches. If only hair growth could be consciously controlled... It's
    hot in here. Feeling rather moist. There are a couple more stops until enough people get
@@ -511,7 +484,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="nes"></a>
    <span class="title">21:17 - Sters defindes winer collanti socible.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Network busies again. I wish this Vivao service allowed sms to email as
    well as email to sms. Bloody Multi-mail keeps disconnecting every time I send as well.
@@ -526,7 +498,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="bedsprila"></a>
    <span class="title">07:55 - Autop puls preheigh olizes.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I really should get something more substantial than an Espresso with a
    queue that long, but as the song goes &quot;I need a bomb, I need a caffeine bomb, I need
@@ -537,7 +508,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="matic"></a>
    <span class="title">07:23 - Idified recious sile.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Well isn't this just spiffy. Too hot. Too crowded. Too far. Too long. I am
    not listening to any music this morning - I wonder if that has anything to do with my
@@ -554,7 +524,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="bedstuat"></a>
    <span class="title">07:02 - Spinari amplana kartaperio susions breart.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Damn clunky trains - can't drink my coffee because it is shaking too much.
    Have to wait until it has cooled enough to take a big swig - will be OK when it isn't as
@@ -566,7 +535,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="watchesaw"></a>
    <span class="title">19:23 - Imminate damental ress strark.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Network is too congested to get a call out. I'll just have to wait until I
    get home to read the rest of the message. Guess the technology just isn't good enough for
@@ -577,7 +545,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="descatho"></a>
    <span class="title">19:05 - Locass despeiest facing.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Clawing my way out from my pit of despair. Lots of encouragement from
    others - that hasn't really helped though - my apathy has just taken over and killed the
@@ -595,7 +562,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="baudica"></a>
    <span class="title">08:41 - Benesplann stoningent spinons apperwri.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Sharing meaningless platitudes with a colleague on the train:<br>
    &quot;Have a good weekend?&quot;<br>
@@ -613,7 +579,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="basaphi"></a>
    <span class="title">08:02 - Qua pancyclima rong.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">There's not enough inside to fuel a white hot rage. Has subsided to a dull
    seething - the embers not even glowing enough to warm me. Cold. Engulfing despair is
@@ -629,7 +594,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="tates"></a>
    <span class="title">07:26 - Accumberga undsce mated disss.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings/clash">/meanderings/clash</a></span>
    <span class="body">
    <p align="left">It's good to talk - kinda essential when you're relating with anyone who
    isn't you. Incomplete. Incompetent. Verbally constipated. In desperate need of a laxative.
@@ -646,7 +610,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="flectors"></a>
    <span class="title">07:06 - Tousions meric virgian seechinat concemeri.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">I just want to get so drunk that I lapse into a coma and never wake up. Or
    to be the only victim of a freak earthquake - swallowed whole by the earth. Pathetic loser
@@ -666,7 +629,6 @@ Thu, 09 Dec 1999
    <div class="story">
    <a name="contant"></a>
    <span class="title">20:00 - Dents dischiest christicali abadger.</span>
-   <span class="category">Category: <a href="/web/20050419173532/http://www.s8n.net/blosxom.cgi/meanderings">/meanderings</a></span>
    <span class="body">
    <p align="left">Wasting so much good material on inner dialogue this weekend - time to get
    some of it down. I am in a new place at the moment. Usually when I go off on a
