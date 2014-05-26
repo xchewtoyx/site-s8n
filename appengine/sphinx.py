@@ -35,6 +35,8 @@ class SphinxJsonHandler(webapp.RequestHandler):
     if document_path.endswith('.html'):
       if os.path.exists(document_path[:-5]):
         self.redirect(self.request.path[:-5], permanent=True, abort=True)
+    if request_path.endswith('index/'):
+      self.redirect(self.request.path[:-6], permanent=True, abort=True)
     if not request_path.endswith('/'):
       if (os.path.isdir(document_path) or
           os.path.exists(document_path + '.fjson')):
@@ -48,7 +50,8 @@ class SphinxJsonHandler(webapp.RequestHandler):
       request_path = './'
     document_path = os.path.join('json', request_path)
     match = False
-    if request_path.endswith('/'):
+    # explicit requests for index/ pages break relative links
+    if request_path.endswith('/') and not request_path.endswith('index/'):
       document_path = document_path.rstrip('/')
       if os.path.isdir(document_path):
         document_path = os.path.join(document_path, 'index')
