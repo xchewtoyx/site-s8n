@@ -1,21 +1,20 @@
 October 1999
 ============
 
-.. raw:: html
+Sun, 31 Oct 1999
+----------------
 
-   <h2>Sun, 31 Oct 1999</h2>
-   <div class="story">
-   <a name="courteens"></a>
-   <span class="title">21:48 - Lachianthrill wilderammer untracer.</span>
-   <span class="body">
-   <p align="left">First time in ages that I have felt confident to drink alone without fear
-   of consequences. Just a calming influence. What is happening to me? A slight clove
-   aftertaste. Time for the next film. Decided to take a break from typical horror and watch
-   the divine &quot;The Wicker Man&quot;. Yay. Wrong pagan festival - beltain not samhain -
-   but I don't care - it seems right to me.</p>
-   </span>
-   </div>
+1999-10-31 21:48
+^^^^^^^^^^^^^^^^
    
+First time in ages that I have felt confident to drink alone without fear
+of consequences. Just a calming influence. What is happening to me? A slight clove
+aftertaste. Time for the next film. Decided to take a break from typical horror and watch
+the divine &quot;The Wicker Man&quot;. Yay. Wrong pagan festival - beltain not samhain -
+but I don't care - it seems right to me.
+
+.. raw html
+
    <div class="story">
    <a name="decid"></a>
    <span class="title">18:12 - Ros blan ized.</span>
