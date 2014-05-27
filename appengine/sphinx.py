@@ -19,7 +19,13 @@ class SitemapHandler(webapp.RequestHandler):
     sitemap_data = memcache.get('sitemap')
     if not sitemap_data:
       with open('sitemap.pkl') as urls_file:
-        urls = pickle.load(urls_file)
+        pages = pickle.load(urls_file)
+      urls = []
+      for page in pages:
+        if page.endswith('index'):
+          urls.append(os.path.dirname(page))
+        else:
+          urls.append(page)
       context = {
         'urls': urls,
       }
